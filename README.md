@@ -1,8 +1,10 @@
+# Ladder2x
+
 An open source ladder logic simulation app for the conversion of ladder logic to maker hardware, like Raspberry Pi and Arduino.
 
 This work is still a long way off from completely operational and could use assistance with adding ladder functions, simulation driving logic, and conversion logic and testing.
 
-# License
+## License
 
 Copyright 2017 Devon Walker <devon@devonwa.com>
 
